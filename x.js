@@ -1,4 +1,4 @@
-
+alert("HELLO WORLD");
 
 // Task 1
 var num1 = 3;
